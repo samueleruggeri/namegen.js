@@ -1,0 +1,2 @@
+# namegen.js
+Name Generator
